@@ -1,0 +1,9 @@
+@media screen {
+    .dialog {
+    display: inline
+    }
+
+    .dialog.desaparecido{
+        display: none;
+    }
+}
